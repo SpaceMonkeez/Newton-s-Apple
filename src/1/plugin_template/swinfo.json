@@ -1,0 +1,24 @@
+{
+  "mod_name": "Newton's Apple",
+  "mod_id": "com.spacemonkeez.newtonsapple",
+  "version": "0.1.0",
+  "ksp_version": "0.1.0",
+  "spacewarp_version": "1.0.0",
+  "dependencies": {
+    "spacewarp": "1.0.0",
+    "bepinex": "5.4.0"
+  },
+  "description": "Adds N-Body mechanics to Kerbal Space Program 2, enhancing orbital physics and gameplay.",
+  "author": "West-Tek",
+  "url": "https://github.com/SpaceMonkeez/Newton-s-Apple.git",
+  "preview_image": "preview.png",
+  "changelog": [
+    {
+      "version": "0.1.0",
+      "date": "2025-03-07",
+      "changes": [
+        "Initial open test release with basic N-Body physics mechanics."
+      ]
+    }
+  ]
+}
